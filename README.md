@@ -1,5 +1,6 @@
+### Hi there 👋
+
 [](https://komarev.com/ghpvc/?username=rajan-31&color=228ea3)
-<img align="center" src="https://komarev.com/ghpvc/?username=rajan-31&color=228ea3" hidden="hidden"/>
 <!--
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rajan-31&hide=stars&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&custom_title=My%20GitHub%20Stats)
@@ -14,8 +15,6 @@
 </a> 
 
 -->
-
-### Hi there 👋
 
 <!--
 
