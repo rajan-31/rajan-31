@@ -1,7 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![](https://raw.githubusercontent.com/rajan-31/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rajan-31/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/rajan-31/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rajan-31/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- [](https://komarev.com/ghpvc/?username=rajan-31&color=228ea3) -->
 <!--
